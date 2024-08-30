@@ -1,0 +1,15 @@
+/home/hackintosh/code/cSharp/Task1/bin/Debug/net8.0/Task1
+/home/hackintosh/code/cSharp/Task1/bin/Debug/net8.0/Task1.deps.json
+/home/hackintosh/code/cSharp/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/home/hackintosh/code/cSharp/Task1/bin/Debug/net8.0/Task1.dll
+/home/hackintosh/code/cSharp/Task1/bin/Debug/net8.0/Task1.pdb
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.dll
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/refint/Task1.dll
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.pdb
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/home/hackintosh/code/cSharp/Task1/obj/Debug/net8.0/ref/Task1.dll
